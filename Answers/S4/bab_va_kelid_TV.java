@@ -18,9 +18,7 @@ public class bab_va_kelid_TV {
             i++;
         }
 
-        if (n==k){
-            System.out.println(channels.get(x-1));
-        } else if (k==0) {
+        if (n==k || k==0){
             System.out.println(channels.get(x-1));
         }
         else {
