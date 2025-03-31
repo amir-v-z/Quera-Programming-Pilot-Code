@@ -66,4 +66,6 @@
 
   <a href="https://github.com/amir-v-z/Quera-Programming-Pilot-Code/blob/main/Answers/S4/akh_jon_taraf_nist.java">آخ جون طرف نیست!</a>
 
+  <a href="https://github.com/amir-v-z/Quera-Programming-Pilot-Code/blob/main/Answers/S4/taxlang.java">تکسلنگ</a>
+
 </details>
