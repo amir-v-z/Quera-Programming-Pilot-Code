@@ -62,4 +62,8 @@
 
   <a href="https://github.com/amir-v-z/Quera-Programming-Pilot-Code/blob/main/Answers/S4/ro_be_ro_dar_metro.java">رو به رو در مترو</a>
 
+  <a href="https://github.com/amir-v-z/Quera-Programming-Pilot-Code/blob/main/Answers/S4/ersal_sangin.java">ارسال سنگین</a>
+
+  <a href="https://github.com/amir-v-z/Quera-Programming-Pilot-Code/blob/main/Answers/S4/akh_jon_taraf_nist.java">آخ جون طرف نیست!</a>
+
 </details>
